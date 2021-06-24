@@ -22,7 +22,7 @@ Anaconda 3.8.5
 OpenWeatherMap
 Google Weather API
 Google Maps API
-Google Places APU
+Google Places API
 
 
 ### Code Techniques 
